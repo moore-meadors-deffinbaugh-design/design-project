@@ -4,9 +4,6 @@
     border: 1em white;
     line-height: 4.5em;
 }
-.row {
-    margin: 1em;
-}
 body {
     background-color: lightgray;
 }
@@ -20,5 +17,29 @@ body {
     text-transform: uppercase;
     padding: 1em 0;
 }
-.circle {
+.small-circles {
+    width: 18px;
+    height:18px;
+    line-height: 18px;
 }
+
+.d-circle {
+    background-color: #E6563B;
+    font-family: 'Anton', sans-serif;
+}
+
+.d-circle-2 {
+    background-color: #eb9d3a;
+    font-family: 'Anton', sans-serif;
+}
+
+.s-circle {
+    background-color: #7cb06c;
+    font-family: 'Anton', sans-serif;
+}
+
+.h-circle {
+    background-color: #00aba9;
+    font-family: 'Anton', sans-serif;
+}
+
