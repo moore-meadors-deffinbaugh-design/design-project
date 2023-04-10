@@ -1,0 +1,26 @@
+.small-circles {
+    width: 18px;
+    height:18px;
+    line-height: 18px;
+}
+
+.d-circle {
+    background-color: #E6563B;
+    font-weight: bolder;
+}
+
+.d-circle-2 {
+    background-color: #eb9d3a;
+}
+
+.s-circle {
+    background-color: #7cb06c;
+}
+
+.h-circle {
+    background-color: #00aba9;
+}
+
+body {
+    font-family: 'Abel', sans-serif;
+}
