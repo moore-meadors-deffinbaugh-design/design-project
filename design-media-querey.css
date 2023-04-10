@@ -28,17 +28,20 @@ body {
 
 .d-circle {
     background-color: #E6563B;
-    font-weight: bolder;
+    font-family: 'Anton', sans-serif;
 }
 
 .d-circle-2 {
     background-color: #eb9d3a;
+    font-family: 'Anton', sans-serif;
 }
 
 .s-circle {
     background-color: #7cb06c;
+    font-family: 'Anton', sans-serif;
 }
 
 .h-circle {
     background-color: #00aba9;
+    font-family: 'Anton', sans-serif;
 }
