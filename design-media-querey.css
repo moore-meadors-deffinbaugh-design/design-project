@@ -1,0 +1,24 @@
+.badge {
+    height: 6em;
+    width: 6em;
+    border: 1em white;
+    line-height: 4.5em;
+}
+.row {
+    margin: 1em;
+}
+body {
+    background-color: lightgray;
+}
+.display-4 {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    padding-top: 1em;
+}
+.lead {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    padding: 1em 0;
+}
+.circle {
+}
