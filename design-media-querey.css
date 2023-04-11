@@ -80,3 +80,16 @@ h4 {
 .four {
     border-color: #E6E6E6 !important;
 }
+
+
+.easter-egg {
+    display: none;
+}
+
+@media screen and (min-width:1352px) and (max-width: 1352px){
+        .easter-egg {
+            display: block;
+            margin: 0 auto;
+        }
+
+}
