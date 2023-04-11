@@ -1,17 +1,21 @@
 .badge {
-    height: 6em;
-    width: 6em;
+    height: 8em;
+    width: 8em;
     border: 1em white;
-    line-height: 4.5em;
+    line-height: 6.5em;
 }
 body {
     background-color: #F0F0F0;
 }
-.display-4 {
+.display-3 {
     font-family: 'Anton', sans-serif;
     text-transform: uppercase;
     padding-top: 1em;
 }
+.title-container {
+    border-color: #d4d5d5 !important;
+}
+
 .lead {
     font-family: 'Anton', sans-serif;
     text-transform: uppercase;
@@ -47,7 +51,7 @@ h4 {
     font-family: 'Anton', sans-serif;
 }
 
-.small {
+.our-small {
     font-family: 'Abel', sans-serif;
     text-transform: uppercase;
 }
