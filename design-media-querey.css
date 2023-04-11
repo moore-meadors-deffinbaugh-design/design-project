@@ -5,7 +5,7 @@
     line-height: 4.5em;
 }
 body {
-    background-color: lightgray;
+    background-color: #F0F0F0;
 }
 .display-4 {
     font-family: 'Anton', sans-serif;
@@ -47,6 +47,32 @@ h4 {
     font-family: 'Anton', sans-serif;
 }
 
-p {
+.small {
     font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+}
+.design {
+    background-color: #E6563B;
+}
+
+.develop {
+    background-color: #eb9d3a;
+}
+
+.support {
+    background-color: #7cb06c;
+}
+
+.host {
+    background-color: #00aba9;
+}
+.navbar {
+    background-color: #F0F0F0;
+}
+.nav-link {
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+}
+.four {
+    border-color: #E6E6E6 !important;
 }
