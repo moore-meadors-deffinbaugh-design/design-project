@@ -56,18 +56,26 @@ h4 {
     text-transform: uppercase;
 }
 .design {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
     background-color: #E6563B;
 }
 
 .develop {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
     background-color: #eb9d3a;
 }
 
 .support {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
     background-color: #7cb06c;
 }
 
 .host {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
     background-color: #00aba9;
 }
 .navbar {
